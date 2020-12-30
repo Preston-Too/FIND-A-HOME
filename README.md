@@ -26,11 +26,11 @@ KerryKogei being the scrum master has put together fellow collegues to participa
 2. Clone (download) your fork to your computer.
 3. Set your streams so you can sync your clone with the original repo (get the latest updates).
 
-   - `git remote add upstream https://github.com/Kerrykogei24/Find-A-Home.git`
+   - `git remote add upstream https://github.com/Preston-Too/FIND-A-HOME.git`
    - `git pull upstream master`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
-4. Find a task [here](https://github.com/Kerrykogei24/Find-A-Home/issues) or [create a task](https://github.com/Kerrykogei24/Find-A-Home/issues)
+4. Find a task [here](https://github.com/Preston-Too/FIND-A-HOME.git/issues) or [create a task](https://github.com/Preston-Too/FIND-A-HOME.git/issues)
    - Comment on the task to claim it, ensuring no-body has done so already.
    - If you created a new task or issue, ensure you specify if you are undertaking the task or if someone else is able to claim it.
    - Keep the issue updated with your progress, inactive issues will be reassigned.
