@@ -1,6 +1,6 @@
-export SECRET_KEY='teamkubwa'
-export MAIL_USERNAME='dellakomar27@gmail.com'
-export MAIL_PASSWORD='0726113175'
+export MAIL_USERNAME='prestontookip@gmail.com'
+export MAIL_PASSWORD='Kipkirui'
+export SECRET_KEY='Press123'
 
 
-python3.6 manage.py server
+python3.8 manage.py server
